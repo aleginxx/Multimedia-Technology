@@ -55,7 +55,7 @@ src/ <br>
 ├── controllers/ <br>
 ├── gui/ <br>
 └── utils/ <br>
-medialab/
+medialab/ <br>
 ├── Tasks.json <br>
 ├── Categories.json <br>
 ├── Priorities.json <br>
