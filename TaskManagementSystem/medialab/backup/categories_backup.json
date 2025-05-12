@@ -1,0 +1,43 @@
+[ {
+  "name" : "Work"
+}, {
+  "name" : "Personal"
+}, {
+  "name" : "Health"
+}, {
+  "name" : "Fitness"
+}, {
+  "name" : "Hobbies"
+}, {
+  "name" : "Education"
+}, {
+  "name" : "Chores"
+}, {
+  "name" : "Finance"
+}, {
+  "name" : "Shopping"
+}, {
+  "name" : "Travel"
+}, {
+  "name" : "Entertainment"
+}, {
+  "name" : "Volunteer"
+}, {
+  "name" : "Family"
+}, {
+  "name" : "Social"
+}, {
+  "name" : "Goals"
+}, {
+  "name" : "Projects"
+}, {
+  "name" : "Events"
+}, {
+  "name" : "Maintenance"
+}, {
+  "name" : "Errands"
+}, {
+  "name" : "Miscellaneous"
+}, {
+  "name" : "Default"
+} ]

@@ -1,0 +1,442 @@
+[ {
+  "taskId" : "fce9e1f1-2c70-4006-8f1f-5c6e91381f56",
+  "title" : "Prepare meeting notes",
+  "description" : "Prepare the notes for the upcoming meeting with the team.",
+  "category" : "Work",
+  "priority" : "High",
+  "dueDate" : [ 2025, 2, 20 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "f8d9db27-8bc0-44d9-a25b-d22e9a36f14c",
+  "title" : "Buy groceries",
+  "description" : "Go shopping for groceries and stock up on essentials.",
+  "category" : "Shopping",
+  "priority" : "Optional",
+  "dueDate" : [ 2025, 2, 15 ],
+  "status" : "In Progress",
+  "reminders" : [ [ 1975, 7, 19 ], [ 1970, 1, 3 ], [ 1970, 1, 16 ], [ 1970, 1, 10 ], [ 1970, 1, 1 ] ]
+}, {
+  "taskId" : "1c5bca0a-e92c-48b1-94d5-9f301b8e9b01",
+  "title" : "Doctor's appointment",
+  "description" : "Attend the doctor's appointment for a routine checkup.",
+  "category" : "Health",
+  "priority" : "High",
+  "dueDate" : [ 2025, 2, 18 ],
+  "status" : "In Progress",
+  "reminders" : [ [ 1975, 7, 19 ], [ 1970, 1, 3 ], [ 1970, 1, 19 ], [ 1970, 1, 9 ], [ 1970, 1, 31 ] ]
+}, {
+  "taskId" : "6d7ed5b7-4a0b-497b-bd4c-6c6e0ed5ec4a",
+  "title" : "Go for a run",
+  "description" : "Run 5 km in the park to stay fit and healthy.",
+  "category" : "Fitness",
+  "priority" : "Urgent",
+  "dueDate" : [ 2025, 2, 22 ],
+  "status" : "In Progress",
+  "reminders" : [ ]
+}, {
+  "taskId" : "d7bb84ae-e8d1-4c0b-bda0-fb7a319f5f87",
+  "title" : "Complete homework",
+  "description" : "Finish all the assignments for school.",
+  "category" : "Education",
+  "priority" : "High",
+  "dueDate" : [ 2025, 2, 17 ],
+  "status" : "In Progress",
+  "reminders" : [ [ 1975, 7, 19 ], [ 1970, 1, 3 ], [ 1970, 1, 18 ], [ 1970, 1, 9 ], [ 1970, 1, 1 ] ]
+}, {
+  "taskId" : "5fd89794-ecb1-428e-8549-98e0cb27e0a9",
+  "title" : "Plan weekend trip",
+  "description" : "Plan a weekend getaway to the mountains.",
+  "category" : "Travel",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 2, 20 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "0fca13bb-e5ff-4d9e-89d1-dc963b99a0fc",
+  "title" : "Clean the house",
+  "description" : "Do the general cleaning around the house.",
+  "category" : "Chores",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 2, 16 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "58e9c10d-cf0b-4c82-b68a-bd6f56b173f1",
+  "title" : "Attend webinar on marketing",
+  "description" : "Join the online webinar on digital marketing strategies.",
+  "category" : "Work",
+  "priority" : "Optional",
+  "dueDate" : [ 2025, 2, 19 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "aa75859e-b93d-4f68-bfd1-09dcd16e6f6d",
+  "title" : "Pay bills",
+  "description" : "Pay utility bills before the due date.",
+  "category" : "Finance",
+  "priority" : "High",
+  "dueDate" : [ 2025, 2, 21 ],
+  "status" : "Completed",
+  "reminders" : [ [ 1975, 7, 19 ], [ 1970, 1, 3 ], [ 1970, 1, 22 ], [ 1970, 1, 10 ], [ 1970, 1, 1 ] ]
+}, {
+  "taskId" : "f69598a7-6de9-4c61-bdb0-6ffbde20bc68",
+  "title" : "Buy new clothes",
+  "description" : "Go shopping to buy new clothes for the season.",
+  "category" : "Shopping",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 2, 23 ],
+  "status" : "In Progress",
+  "reminders" : [ ]
+}, {
+  "taskId" : "462c6d2d-6fd2-4d63-a6ba-c9fc658ccf84",
+  "title" : "Prepare for job interview",
+  "description" : "Practice interview questions and prepare your resume.",
+  "category" : "Work",
+  "priority" : "High",
+  "dueDate" : [ 2025, 2, 17 ],
+  "status" : "Postponed",
+  "reminders" : [ [ 1975, 7, 19 ], [ 1970, 1, 3 ], [ 1970, 1, 18 ], [ 1970, 1, 9 ], [ 1970, 1, 31 ] ]
+}, {
+  "taskId" : "8e29fd01-1a1c-46fa-9078-825b64ed1052",
+  "title" : "Organize wardrobe",
+  "description" : "Sort and organize your clothes in the wardrobe.",
+  "category" : "Chores",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 2, 18 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "1ad3c3ad-2e8e-4f6d-a78c-c93d2072b78b",
+  "title" : "Attend family gathering",
+  "description" : "Attend the family dinner event at your cousin's house.",
+  "category" : "Family",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 2, 20 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "986f9ed3-65de-4b9f-b6f5-b4b544953d7c",
+  "title" : "Read a new book",
+  "description" : "Start reading the new book you bought last week.",
+  "category" : "Hobbies",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 2, 22 ],
+  "status" : "In Progress",
+  "reminders" : [ ]
+}, {
+  "taskId" : "e406aad9-64a3-467d-b8c5-99e84a6fe5f2",
+  "title" : "Practice yoga",
+  "description" : "Do 30 minutes of yoga in the morning.",
+  "category" : "Fitness",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 2, 23 ],
+  "status" : "In Progress",
+  "reminders" : [ ]
+}, {
+  "taskId" : "9a6c5d95-5016-4e06-99f1-df93a49d658b",
+  "title" : "Finish reading course material",
+  "description" : "Complete the reading material for the online course.",
+  "category" : "Education",
+  "priority" : "Urgent",
+  "dueDate" : [ 2025, 2, 24 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "3f72ef5e-e577-493d-bb89-91b129d5f212",
+  "title" : "Buy flight tickets",
+  "description" : "Purchase flight tickets for the summer vacation.",
+  "category" : "Travel",
+  "priority" : "High",
+  "dueDate" : [ 2025, 2, 26 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "ce8904f1-f890-4d77-9d33-4b27ea23c953",
+  "title" : "Fix the leaking faucet",
+  "description" : "Repair the faucet in the kitchen that is leaking.",
+  "category" : "Maintenance",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 2, 28 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "0418b1b0-9f8e-44d4-bfa0-b945d7b7b87e",
+  "title" : "Declutter garage",
+  "description" : "Organize and declutter the garage to make space.",
+  "category" : "Chores",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 2, 25 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "908466eb-9c96-44ca-b9c4-4c8c5c7980bc",
+  "title" : "Volunteer at the animal shelter",
+  "description" : "Spend the afternoon volunteering at the local animal shelter.",
+  "category" : "Volunteer",
+  "priority" : "Optional",
+  "dueDate" : [ 2025, 2, 21 ],
+  "status" : "Open",
+  "reminders" : [ ]
+}, {
+  "taskId" : "af8abaf8-c51d-4d9e-bfe7-0a5b8b283c3d",
+  "title" : "Attend a movie night with friends",
+  "description" : "Join friends for a fun movie night.",
+  "category" : "Entertainment",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 2, 20 ],
+  "status" : "In Progress",
+  "reminders" : [ ]
+}, {
+  "taskId" : "6f53a7d2-1119-4a79-8359-8cf9eb1a13b4",
+  "title" : "Send birthday card to mom",
+  "description" : "Send a birthday card for your mom's upcoming birthday.",
+  "category" : "Family",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 2, 19 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "2b6a5d34-4f7d-4699-8754-e19eb32c941e",
+  "title" : "Prepare budget for next month",
+  "description" : "Plan and prepare the budget for the next month.",
+  "category" : "Finance",
+  "priority" : "High",
+  "dueDate" : [ 2025, 2, 26 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "1eebeb47-72f6-421f-a4e1-f7b6c132d4bb",
+  "title" : "Complete project report",
+  "description" : "Finish the final report for the current project.",
+  "category" : "Work",
+  "priority" : "High",
+  "dueDate" : [ 2025, 3, 5 ],
+  "status" : "Open",
+  "reminders" : [ ]
+}, {
+  "taskId" : "2e5adf6d-15cb-4b24-8b29-b5b21f22b09a",
+  "title" : "Buy new shoes",
+  "description" : "Go shopping to buy new shoes for the season.",
+  "category" : "Shopping",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 4, 10 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "f38a593e-5687-47cf-b5d0-590ec8d9111a",
+  "title" : "Attend dental appointment",
+  "description" : "Visit the dentist for a routine check-up.",
+  "category" : "Health",
+  "priority" : "High",
+  "dueDate" : [ 2025, 3, 12 ],
+  "status" : "Open",
+  "reminders" : [ ]
+}, {
+  "taskId" : "5173ec8c-b622-4b8b-bf16-63d8f058f6a3",
+  "title" : "Run 10 km",
+  "description" : "Run a 10 km distance in the park for fitness.",
+  "category" : "Fitness",
+  "priority" : "Urgent",
+  "dueDate" : [ 2025, 4, 2 ],
+  "status" : "In Progress",
+  "reminders" : [ ]
+}, {
+  "taskId" : "fda71036-91c7-48a3-81c2-7fcfbe3d13fc",
+  "title" : "Read 2 chapters of the new book",
+  "description" : "Read the next two chapters of the novel you started.",
+  "category" : "Hobbies",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 3, 8 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "86f69845-c746-40ad-b799-2c110bb77b6a",
+  "title" : "Finish research paper",
+  "description" : "Complete the research paper for your academic course.",
+  "category" : "Education",
+  "priority" : "High",
+  "dueDate" : [ 2025, 4, 5 ],
+  "status" : "Open",
+  "reminders" : [ ]
+}, {
+  "taskId" : "c2730de1-f402-40b7-b9a4-d61e6b029303",
+  "title" : "Declutter the closet",
+  "description" : "Sort through the closet and donate unwanted clothes.",
+  "category" : "Chores",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 4, 12 ],
+  "status" : "In Progress",
+  "reminders" : [ ]
+}, {
+  "taskId" : "aff9ef4d-3328-440b-b5ca-6ef4064f1c70",
+  "title" : "Attend seminar on leadership",
+  "description" : "Join the leadership seminar for professional development.",
+  "category" : "Work",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 3, 15 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "923b159e-2f77-4a9f-8f99-9245b8c2076e",
+  "title" : "Pay taxes",
+  "description" : "Pay your taxes before the deadline.",
+  "category" : "Finance",
+  "priority" : "High",
+  "dueDate" : [ 2025, 4, 1 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "b2cf3b0f-b11f-4b1f-8d68-8fd9a2d2ac7d",
+  "title" : "Complete marathon training",
+  "description" : "Complete the training program for the upcoming marathon.",
+  "category" : "Fitness",
+  "priority" : "High",
+  "dueDate" : [ 2025, 3, 25 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "6e9c2276-2f9b-49ff-bd12-328aa1f70859",
+  "title" : "Buy birthday gift for sister",
+  "description" : "Purchase a gift for your sister's birthday.",
+  "category" : "Shopping",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 4, 20 ],
+  "status" : "Open",
+  "reminders" : [ ]
+}, {
+  "taskId" : "2c9abff7-2b63-4960-b982-cf0d98d698d3",
+  "title" : "Organize work files",
+  "description" : "Organize and categorize your work files on the computer.",
+  "category" : "Work",
+  "priority" : "Optional",
+  "dueDate" : [ 2025, 3, 18 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "d20e6b76-2ef1-419d-a2c7-88fd0d56d244",
+  "title" : "Attend fitness class",
+  "description" : "Join a fitness class at the gym for a workout session.",
+  "category" : "Fitness",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 4, 8 ],
+  "status" : "In Progress",
+  "reminders" : [ ]
+}, {
+  "taskId" : "34091169-87b9-4133-b420-cd6ad0db3bdb",
+  "title" : "Book hotel for vacation",
+  "description" : "Reserve a hotel room for the upcoming vacation.",
+  "category" : "Travel",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 3, 22 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "3adf6072-dc8f-466d-bd99-8d467b05951a",
+  "title" : "Update resume",
+  "description" : "Update your resume with recent work experience and skills.",
+  "category" : "Work",
+  "priority" : "Urgent",
+  "dueDate" : [ 2025, 4, 6 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "f946a93e-cd94-47d1-9f58-2f4776d3e6b3",
+  "title" : "Clean out email inbox",
+  "description" : "Organize and clean out your email inbox by deleting old messages.",
+  "category" : "Chores",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 3, 30 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "7bfb129f-5b7f-4d88-8e68-6dffb5e3d27a",
+  "title" : "Take online cooking class",
+  "description" : "Join the online cooking class to learn new recipes.",
+  "category" : "Hobbies",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 4, 15 ],
+  "status" : "In Progress",
+  "reminders" : [ ]
+}, {
+  "taskId" : "ab2f697d-3ab7-4640-8cfb-0d82e1d72b70",
+  "title" : "Visit grandparents",
+  "description" : "Spend time with your grandparents for the weekend.",
+  "category" : "Family",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 4, 10 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "21f5a870-ea47-42e0-97c9-d7909f1c3541",
+  "title" : "Organize photo albums",
+  "description" : "Sort and organize the family photo albums.",
+  "category" : "Chores",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 3, 20 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "9fc99319-d3ac-487b-b2de-72c5a7f38fc4",
+  "title" : "Attend business networking event",
+  "description" : "Join a networking event to connect with professionals in your field.",
+  "category" : "Work",
+  "priority" : "Urgent",
+  "dueDate" : [ 2025, 4, 25 ],
+  "status" : "In Progress",
+  "reminders" : [ ]
+}, {
+  "taskId" : "532b7747-73f7-4c2f-9f02-28f5e27fe4f9",
+  "title" : "Submit travel expense report",
+  "description" : "Submit the report for the recent business trip expenses.",
+  "category" : "Finance",
+  "priority" : "High",
+  "dueDate" : [ 2025, 3, 10 ],
+  "status" : "Open",
+  "reminders" : [ ]
+}, {
+  "taskId" : "94fd33c9-f577-440f-9077-8aebdca7c8b4",
+  "title" : "Reorganize bookshelf",
+  "description" : "Reorganize your bookshelf and donate unwanted books.",
+  "category" : "Chores",
+  "priority" : "Low",
+  "dueDate" : [ 2025, 3, 28 ],
+  "status" : "In Progress",
+  "reminders" : [ ]
+}, {
+  "taskId" : "12f2a80f-06a4-4f5d-9ff1-15e72d970a3b",
+  "title" : "Attend music concert",
+  "description" : "Enjoy a live music concert with friends.",
+  "category" : "Entertainment",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 4, 5 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "7e6bcd76-bf5b-469e-9db2-6d283fbe84cc",
+  "title" : "Host dinner party",
+  "description" : "Invite friends and host a dinner party at your place.",
+  "category" : "Social",
+  "priority" : "Medium",
+  "dueDate" : [ 2025, 4, 14 ],
+  "status" : "Open",
+  "reminders" : [ ]
+}, {
+  "taskId" : "8bb35d02-4fbe-4bff-a1f5-0bdecaec84bc",
+  "title" : "Update LinkedIn profile",
+  "description" : "Refresh and update your LinkedIn profile with recent work achievements.",
+  "category" : "Work",
+  "priority" : "Optional",
+  "dueDate" : [ 2025, 4, 18 ],
+  "status" : "Postponed",
+  "reminders" : [ ]
+}, {
+  "taskId" : "9a01922d-846e-4686-929a-80ee3e92d7a0",
+  "title" : "Plan team building event",
+  "description" : "Organize a team building activity for your department.",
+  "category" : "Work",
+  "priority" : "High",
+  "dueDate" : [ 2025, 4, 1 ],
+  "status" : "Completed",
+  "reminders" : [ ]
+} ]
