@@ -48,18 +48,18 @@ This repository contains the implementation of a graphical **Task Management Sys
 ---
 
 ## Project Structure
-src/
-└── main/
-└── java/com/taskmanager/
-├── models/
-├── controllers/
-├── gui/
-└── utils/
+src/ <br>
+└── main/ <br>
+└── java/com/taskmanager/ <br>
+├── models/ <br>
+├── controllers/ <br>
+├── gui/ <br>
+└── utils/ <br>
 medialab/
-├── Tasks.json
-├── Categories.json
-├── Priorities.json
-└── Reminders.json
+├── Tasks.json <br>
+├── Categories.json <br>
+├── Priorities.json <br>
+└── Reminders.json <br>
 
 
 ---
